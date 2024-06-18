@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.d651f477.css",
+    "main.js": "/my-app/static/js/main.d5653152.js",
+    "static/js/453.427b141f.chunk.js": "/my-app/static/js/453.427b141f.chunk.js",
+    "static/media/lego-2539844_1280-Photoroom.png": "/my-app/static/media/lego-2539844_1280-Photoroom.f8e78f021cd6510fb894.png",
+    "static/media/notebook-428292_1920.jpg": "/my-app/static/media/notebook-428292_1920.8c8ee19b8282d031a7b9.jpg",
+    "index.html": "/my-app/index.html",
+    "main.d651f477.css.map": "/my-app/static/css/main.d651f477.css.map",
+    "main.d5653152.js.map": "/my-app/static/js/main.d5653152.js.map",
+    "453.427b141f.chunk.js.map": "/my-app/static/js/453.427b141f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d651f477.css",
+    "static/js/main.d5653152.js"
+  ]
+}
